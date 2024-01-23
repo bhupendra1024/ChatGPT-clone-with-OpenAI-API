@@ -1,4 +1,4 @@
-const chat_API = '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'
+const chat_API = 'API KEY'
 
 const submitButton = document.querySelector('#submit')
 
